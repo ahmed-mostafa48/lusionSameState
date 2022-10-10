@@ -46,10 +46,10 @@
 
 }
 
-@media screen  and (max-width:185px) {
+@media screen  and (max-width:195px) {
 
     .tx-total{
-        font-size: 15px !important;
+        font-size: 12px !important;
     }
 
     .swq{
