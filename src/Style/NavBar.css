@@ -1,0 +1,29 @@
+
+
+.mg{
+    margin-left: 19px;
+    width: 29px;
+    margin-bottom: -2px;
+    /* text-align: center !important; */
+}
+
+
+.r{
+    margin-top: -20px;
+}
+
+
+
+
+@media screen and (max-width :576px){
+    .w{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+.color{
+    background-color:  black;
+}

@@ -1,0 +1,17 @@
+@media screen and (max-width:226px) {
+    .tx-best{
+        font-size: 10px ;
+    }
+}
+
+
+@media screen and (max-width:169px) {
+    .best{
+       flex-direction: column;
+    }
+
+    .tx-best{
+        font-size: 8px ;
+        font-weight: bold;
+    }
+}

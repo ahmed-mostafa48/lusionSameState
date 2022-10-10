@@ -1,0 +1,36 @@
+.text-box{
+    transform: rotate(90deg);
+    height: 80px;
+    width: 140px;
+    text-align: center !important;
+}
+
+@media screen and (max-width:345px) {
+    .direc{
+        flex-direction: column !important;
+    }
+    .text-box{
+        transform: rotate(0) ;
+        margin-top: 20px;
+    }
+    
+}
+
+
+@media screen and (max-width:159px) {
+    
+    .text-box{
+        width: 100px;
+
+    }
+    .best-sec-tx{
+        font-size: 15px;
+      
+    }
+}
+
+@media screen and (max-width:188px) {
+    .best-title{
+        font-size: 15px;
+    }
+}

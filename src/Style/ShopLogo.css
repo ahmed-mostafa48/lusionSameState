@@ -1,0 +1,16 @@
+/* 
+.im{
+    background-image:url('../Photos/Shop1.jpg') ;
+    width: 100%;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+} */
+
+@media screen and (max-width:200px) {
+
+    .tx{
+        font-size: 10px;
+    }
+
+}

@@ -1,0 +1,28 @@
+.cart-ic{
+    cursor: pointer;
+}
+
+
+@media screen  and (max-width:173px) {
+    .ics{
+        display: flex !important;
+    }
+}
+
+@media screen  and (max-width:195px) {
+
+.cart-tex{
+    font-size: 12px !important;
+}
+
+.cart-ic{
+    font-size: 14px !important;
+}
+
+.cart-img{
+    width: 6rem !important;
+}
+
+}
+
+

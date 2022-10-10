@@ -1,0 +1,43 @@
+@media screen and (min-width:1200px) {
+    .img-width{
+        width: 24rem !important;
+    }
+
+}
+
+
+@media screen and (max-width:362px) {
+
+    .img-width{
+        width: 14rem !important;
+    }
+}
+
+
+@media screen  and (min-width:992px) and (max-width:999px) {
+
+    .img-width{
+        width: 19rem !important;
+    }
+}
+
+
+@media screen and (max-width:262px) {
+    .img-width{
+        width: 10rem !important;
+    }
+}
+
+@media screen and (max-width:200px) {
+    .img-width{
+        width: 5rem !important;
+    }
+}
+
+@media screen and (max-width:153px) {
+
+.type-tx{
+    font-size: 20px;
+}
+
+}
