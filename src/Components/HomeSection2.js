@@ -11,7 +11,7 @@ function HomeSection2(props) {
         <div className='row d-flex  justify-content-center justify-content-lg-start justify-content-md-center justify-content-sm-center  align-items-center'>
             {props.homeProducts2.map((p)=>(
                 <div key={p.id} className='col-lg-4 col-md-5 col-sm-7 col-11 '  >
-                    <img src={p.photo}  className='img-width' style={{width:'20rem'}}/>
+                    <img src={p.photo} alt='' className='img-width' style={{width:'20rem'}}/>
                     <h2 className='type-tx'>{p.type}</h2>
                     <h2>items {p.items}</h2>
 

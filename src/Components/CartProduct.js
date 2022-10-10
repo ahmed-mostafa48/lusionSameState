@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, CardTitle ,CardText, Button, CardImg } from 'reactstrap';
+import { Card, CardBody ,CardText, CardImg } from 'reactstrap';
 import {AiOutlineMinus, AiOutlinePlus, AiTwotoneDelete } from "react-icons/ai";
 import '../Style/CartProduct.css'
 

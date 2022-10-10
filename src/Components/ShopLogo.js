@@ -2,7 +2,7 @@ import React from 'react'
 import '../Style/ShopLogo.css'
 import Shop1 from '../Photos/Shop1.jpg'
 import {Card, CardImg, CardImgOverlay, CardText, CardTitle } from 'reactstrap';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 function ShopLogo() {
 
 //   return (

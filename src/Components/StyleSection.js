@@ -13,7 +13,7 @@ function StyleSection(props) {
             <div className='row  images col-lg-6 col-md-6 col-sm-6 col-12  p-0 m-0' >
                 {
                     props.styleProducts.map((sp)=>(
-                        <img key={sp.id} src={sp.photo}  className='col-lg-6 col-md-6 col-sm-6 col-6  p-0 m-0 ' />
+                        <img key={sp.id} src={sp.photo} alt='' className='col-lg-6 col-md-6 col-sm-6 col-6  p-0 m-0 ' />
                     ))
                 }
             </div>
